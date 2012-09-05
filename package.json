@@ -26,5 +26,8 @@
   },
   "files": [
     ""
-  ]
+  ],
+  "dependencies": {
+    "snappy": ">= 1.2.0"
+  }
 }
